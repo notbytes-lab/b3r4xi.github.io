@@ -1,0 +1,32 @@
+title: B3R4Xi-Pages
+description: "Hello welcome to my site"
+author:
+  name: "B3R4Xi"
+  email: "zeninadif03@gmail.com"
+  url: ""
+
+baseurl: brxi_pages
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner : "b3r4xi"
+year : "2020"
