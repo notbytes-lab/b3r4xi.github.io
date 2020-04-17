@@ -7,7 +7,7 @@ categories: CTF
 Hai...
 Nah jadi kemarin ada tuh `event` PreCTF dari salah satu penyelenggaran CTF yang bakal di mulai pada _25-04-2020_ mendatang, nah jika kalian pen daftar juga ini link nya [https://www.ijctf.ml](https://www.ijctf.ml). Nah berhubung preCTF udah beres, saya mau nulis dikit dari beberapa challenge yang udah ke solve. gabanyak sih tapi ya lumayan lah buat bahan bacaan.
 
-# [](#header-1) Dig.zip (MISC)
+# [](#header-2) Dig.zip (MISC)
 
 Judulnya sebenernya bukan dig.zip tapi itu file yang ada dichallenge ini, berhubung ane lupa gak langsung nulis writeup selesai solve, jadi gini dah repot kalo pen nulis. 
 jadi langsung aja gimana solve nya, 
