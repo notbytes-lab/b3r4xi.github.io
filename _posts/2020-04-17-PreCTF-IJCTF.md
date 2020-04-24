@@ -1,5 +1,5 @@
 ---
-title: PreCTF - IJCTF 2020
+title: Write Up PreCTF - IJCTF 2020
 published: true
 categories: CTF
 ---
